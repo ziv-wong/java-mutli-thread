@@ -1,4 +1,4 @@
-package com.ziv.thread;
+package com.ziv.thread.stop;
 
 public class StopThread {
     public static void main(String[] args) {
