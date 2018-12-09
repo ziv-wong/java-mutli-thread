@@ -1,6 +1,6 @@
 package com.ziv.thread;
 
-public class stop {
+public class StopThread {
     public static void main(String[] args) {
         System.out.println("hello world!");
     }
